@@ -1,5 +1,5 @@
 export default {
-    token: "",
+    token: process.env.TOKEN,
     clientId: "1153931709679665212",
     color: "#00ff00",
     replicateToken: "",
